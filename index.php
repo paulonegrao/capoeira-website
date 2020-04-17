@@ -9,7 +9,7 @@ Project1 PHP Includes
 	<div id="volume_button" class="volume_off" onclick="volumeset()"></div>
 
 	<video id="home_video1" muted name="media">
-		<source src="videos/capoeira6.mp4" type="video/mp4">
+		<source src="videos/capoeira1.mp4" type="video/mp4">
 	</video>
 	<video id="home_video2" muted name="media">
 		<source src="videos/capoeira1.mp4" type="video/mp4">
