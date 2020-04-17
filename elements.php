@@ -42,7 +42,7 @@ include("header.html");
 				<tr>
 					<td class="tdtext">
 						<p>The ginga is the basic movement of capoeira, but besides the ginga are very common the kicks
-							in rotation, creeps, flourishes (as the <em>aú</em> and the <em>bananeira</em>>), blows with
+							in rotation, creeps, flourishes (as the <em>aú</em> and the <em>bananeira</em>), blows with
 							the hands, halts, elusive kicks, acrobatics (like the somersault), swings supported on the
 							hands or the head and movements of great elasticity.</p>
 					</td>

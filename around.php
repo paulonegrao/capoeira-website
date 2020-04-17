@@ -7,7 +7,9 @@ include("header.html");
 						<td class="tdtitle" colspan="3"><h2>Around</h2></td>
 					</tr>
 					<tr>
-						<td class="tdtext" colspan="3"><p>Capoeira Aché Brasil continues to be Canada’s premiere Capoeira group, emphasizing quality, community, and personal growth. Capoeira Aché Brasil highlights strength, agility and ability while promoting positive energy and improving one’s health and well-being. Self-defense is taught to be used only as a last resort if a student is confronted with a situation requiring defending oneself from physical danger.</p></td>
+						<td class="tdtext" colspan="3">
+							<p>Yes, Capoeira is around Vancouver as well. Watch a game and you'll see everyone has their own individual style. Allow yours to develop - bring your personality to it, rather than trying to look the same as someone else.</p>
+					    </td>
 					</tr>
 					<tr>
 							<td class="tdtitle" colspan="3"><h3>Academies</h3></td>
