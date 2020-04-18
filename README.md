@@ -15,8 +15,6 @@ A prototype version os this Website is hosted on Heroku and can be visited [here
 ## Specifications
 Requisites and specifications (sitemap, mockups, wireframes, graphic prototypes, etc.) can be found at:
 
-![Capoeira Design Plan](https://github.com/paulonegrao/capoeira-website/blob/master/images/project-design-plan.png)
-
 [![Capoeira Design Plan](https://github.com/paulonegrao/capoeira-website/blob/master/images/project-design-plan.png)](https://github.com/paulonegrao/capoeira-design-plan/blob/master/PauloNegrao_Major_Project%20_Part_A.pdf)
 
 
