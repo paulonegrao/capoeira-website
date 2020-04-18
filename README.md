@@ -7,7 +7,7 @@ It uses PHP and JavaScript to attend server-side and client-side requisites. HTM
 ![Capoeira Project Desciption](https://github.com/paulonegrao/capoeira-website/blob/master/images/project-description.png)
 
 ## Demo
-A prototype version os this Website is hosted on Heroku and can be visited ![here](https://capoeira-website.herokuapp.com/)
+A prototype version os this Website is hosted on Heroku and can be visited [here](https://capoeira-website.herokuapp.com/)
 
 
 [![Capoeira Design Plan](https://github.com/paulonegrao/capoeira-website/blob/master/images/capoeira-website-thumbnail.png)](https://capoeira-website.herokuapp.com/)
