@@ -9,8 +9,12 @@ It uses PHP and JavaScript to attend server-side and client-side requisites. HTM
 ## Demo
 A prototype version os this Website is hosted on Heroku and can be visited [here](https://capoeira-website.herokuapp.com/)
 
-
-[![Capoeira Design Plan](https://github.com/paulonegrao/capoeira-website/blob/master/images/capoeira-website-thumbnail.png)](https://capoeira-website.herokuapp.com/)
+<div align=center>
+    <a href="https://capoeira-website.herokuapp.com/">
+        <img src="https://github.com/paulonegrao/capoeira-website/blob/master/images/capoeira-website-thumbnail.png" alt="Capoeira - Web Interface" width="650px" />
+    </a>
+</div>
+<br>
 
 ## Specifications
 Requisites and specifications (sitemap, mockups, wireframes, graphic prototypes, etc.) can be found at:
